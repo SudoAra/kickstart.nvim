@@ -172,6 +172,9 @@ vim.o.textwidth = 80
 -- Show maximum line length ruler.
 vim.o.colorcolumn = '80'
 
+-- Set line wrapping.
+vim.o.wrap = false
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
