@@ -167,7 +167,7 @@ vim.o.scrolloff = 10
 vim.o.confirm = true
 
 -- Set maximum line length.
-vim.o.textwidth = 80
+vim.o.textwidth = 79
 
 -- Show maximum line length ruler.
 vim.o.colorcolumn = '80'
